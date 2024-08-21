@@ -36,3 +36,5 @@ str = "Apna"
 print(str[-3:-1])
 
 
+
+
