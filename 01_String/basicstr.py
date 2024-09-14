@@ -23,7 +23,7 @@ print(len(str2))
 str ="Apna_college"
 print(str[0])
 
-#  Slicing:-> it is a part of astring for example. 
+#  Slicing:-> it is a part of a string for example. 
 # in slicing end index is not include in string.
 #  if first index is not define then automeatic understand start with zero(0)for ex:-> str[ :4].
 #  if last index is not define then automeatic understand end with length of String for ex -> str[0: ].
